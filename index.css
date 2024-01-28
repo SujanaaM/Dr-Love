@@ -1,0 +1,71 @@
+h1{
+    display: flex;
+    color: red;
+    width: 400px;
+    padding-right: 400px;
+    font-family: 'Nanum Pen Script';
+    font-size: 60px;
+}
+
+.Headerss{
+    display: flex;
+    padding: 5px;
+    background-color: pink;
+}
+
+.Headers > a {
+    justify-content: center;
+}
+
+a{
+    padding-right: 10px;
+    padding-left: 15px;
+    text-align: right;
+    font-family: 'Nanum Pen Script';
+    font-size: 20px;
+}
+
+.tenor-gif-embed{
+    text-align: center;
+}
+
+div{
+    display:block;
+}
+
+
+
+h3{
+    color: palevioletred;
+    font-size: larger;
+    display: inline;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+font-family: 'Gamja Flower', sans-serif;
+font-family: 'Libre Baskerville', serif;
+}
+
+button{
+    background-color: pink;
+    color: white;
+    border-color: palevioletred;
+    width: 150px;
+    height: 150px;
+    display: flexbox;
+}
+
+.No {
+    display: inline;
+
+}
+
+.Yes {
+    display: inline;
+    padding-left: 500px;
+    padding-right: 90px;
+}
+
+.footer {
+    background-color: pink;
+    height: 50px;
+}
