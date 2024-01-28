@@ -1,0 +1,203 @@
+html{
+height : 100%;
+width: 100%;
+}
+
+body{
+    background-color:  white;
+}
+
+.idea-1{
+    display: block;
+    margin: 100px;
+    margin-left: -4px;
+    margin-top: -10px;
+    font-family: 'Gamja Flower';
+    font-size: 20px;
+}
+
+.idea-2{
+    display: block;
+    margin: 100px;
+    margin-left: -4px;
+    margin-top: -10px;
+    font-family: 'Gamja Flower';
+    font-size: 20px;
+}
+
+.idea-3{
+    display: block;
+    margin: 100px;
+    margin-left: 10px;
+    margin-top: -10px;
+    font-family: 'Gamja Flower';
+    font-size: 20px; 
+}
+
+.idea-4{
+    display: block;
+    margin: 100px;
+    margin-left: -10px;
+    margin-top: -10px;
+    font-family: 'Gamja Flower';
+    font-size: 20px;  
+}
+
+.idea-5{
+    display: block;
+    margin: 100px;
+    margin-left: 40px;
+    margin-top: -10px;
+    font-family: 'Gamja Flower';
+    font-size: 20px;   
+}
+
+.idea-6{
+    display: block;
+    margin: 100px;
+    margin-left: 40px;
+    margin-top: -10px;
+    font-family: 'Gamja Flower';
+    font-size: 20px;  
+}
+
+.movies-1{
+    padding-left: 20px;
+    text-wrap: flex-wrap;
+    padding-right: 20px;
+    width: 275px;
+}
+
+.icecream-1{
+    padding-left: 20px;
+    text-wrap: flex-wrap;
+    padding-right: 20px;
+    width: 275px;
+}
+
+.restaurant-1{
+    padding-left: 40px;
+    text-wrap: flex-wrap;
+    padding-right: 20px;
+    width: 275px;
+}
+
+.picnic-1{
+    padding-left: 60px;
+    text-wrap: flex-wrap;
+    padding-right: 120px;
+    width: 275px; 
+}
+
+.boba-1{
+    padding-left: 20px;
+    text-wrap: flex-wrap;
+    padding-right: 20px;
+    width: 275px; 
+}
+
+.coffee-1{
+    padding-left: 20px;
+    text-wrap: flex-wrap;
+    padding-right: 40px;
+    width: 275px;  
+}
+
+.boba{
+    height: 250px;
+    width: 200px;
+    display: flex;
+    padding: 10px;  
+}
+
+.coffee{
+    height: 250px;
+    width: 200px;
+    margin: 40px;
+    margin-top: -250px;
+    margin-right: 400px;
+    justify-content: space-around;
+    display: flex;  
+}
+
+.ice-cream{
+    height: 250px;
+    width: 200px;
+    display: flex;
+    margin-top: 0px;
+}
+
+.movies{
+    height: 250px;
+    width: 200px;
+    display: flex;
+}
+
+.picnic{
+    height: 250px;
+    width: 200px;
+    margin: 40px;
+    margin-top: -250px;
+    margin-right: 400px;
+    justify-content: space-around;
+    display: flex;  
+}
+
+.restaurant{
+    height: 250px;
+    width: 200px;
+    margin: 40px;
+    margin-top: -250px;
+    margin-left: -17px;
+    justify-content: space-around;
+    display: flex;     
+}
+
+h1{
+    display: flex;
+    color: red;
+    width: 400px;
+    padding-right: 400px;
+    font-family: 'Nanum Pen Script';
+    font-size: 60px;
+}
+
+.tabs{
+    display: flex;
+    padding: 10px;
+    background-color: pink;
+}
+
+.Headers > a {
+    justify-content: center;
+}
+
+a{
+    padding-right: 10px;
+    padding-left: 20px;
+    text-align: right;
+    font-family: 'Nanum Pen Script';
+    font-size: 20px;
+}
+
+.dates-row-1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.dates-row-2{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.footer {
+    background-color: pink;
+    height: 50px;;
+}
+
+p{
+    font-family: 'Gamja Flower';
+    font-size: 20px;
+}
