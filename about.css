@@ -1,0 +1,72 @@
+h1{
+    display: flex;
+    color: red;
+    width: 400px;
+    padding-right: 400px;
+    font-family: 'Nanum Pen Script';
+    font-size: 60px;
+}
+
+.Headerss{
+    display: flex;
+    padding: 10px;
+    background-color: pink;
+}
+
+.Headers > a {
+    justify-content: center;
+}
+
+a{
+    padding-right: 10px;
+    padding-left: 15px;
+    text-align: right;
+    font-family: 'Nanum Pen Script';
+    font-size: 20px;
+    size: 50px;
+}
+
+.Sujana {
+    width: 150px;
+    padding: 50px;
+}
+
+.Saanvi {
+    width: 150px;
+    padding: 50px;
+}
+
+
+.Sujju {
+    size: 300px;
+    display: inline;
+    margin-left: 300px;
+}
+
+.Vivi {
+    size: 300px;
+    display: inline;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.s{
+   display: inline-block;
+   width: 300px;
+   height: 50px;
+   margin-left: 300px;
+   font-family: 'Nanum Pen Script';
+   font-size: 30px;
+   
+}
+
+
+.why{
+   padding-left: 285px;
+}
+
+
+.footer {
+    background-color: pink;
+    height: 50px;;
+}
